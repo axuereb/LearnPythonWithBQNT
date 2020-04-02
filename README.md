@@ -4,7 +4,7 @@ If you have Bloomberg software installed, run **{BQNT}** on your Bloomberg termi
 
 # How to download the material and import into BQNT?
 
-**1. Download the materials and unzpi to save to an easy to find location**
+**+ 1. Download the materials and unzpi to save to an easy to find location**
 ![Download the materials](https://github.com/yunkanqian/PythonTrainingSetUpInstructions/blob/master/1.PNG)
 
 **2. Launch BQNT**
