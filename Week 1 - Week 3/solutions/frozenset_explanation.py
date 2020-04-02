@@ -1,0 +1,1 @@
+### In Python, frozenset is same as set except its elements are immutable. This function takes input as any iterable object and converts them into immutable object. The order of element is not guaranteed to be preserved. Parameter : This function accepts iterable object as input parameter.

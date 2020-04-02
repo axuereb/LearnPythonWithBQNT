@@ -1,0 +1,1 @@
+print('''+{i}+\nHELLO\n+{i}+'''.format(i=8*'-'))
