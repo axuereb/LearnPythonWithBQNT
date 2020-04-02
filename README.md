@@ -8,6 +8,7 @@ If you have Bloomberg software installed, run **{BQNT}** on your Bloomberg termi
 ![Download the materials](https://github.com/yunkanqian/PythonTrainingSetUpInstructions/blob/master/1.PNG)
 
 ### 2. Launch BQNT
+If you are login on Bloomberg, you may [click this to launch BQNT](https://blinks.bloomberg.com/screens/BQNT)
 ![Launch BQNT](https://github.com/yunkanqian/PythonTrainingSetUpInstructions/blob/master/2.PNG)
 
 ### 3. Create New Project
@@ -30,3 +31,6 @@ If you have Bloomberg software installed, run **{BQNT}** on your Bloomberg termi
 
 ### 9. Back to Top Project and Ready to go
 ![Back to Top Project](https://github.com/yunkanqian/PythonTrainingSetUpInstructions/blob/master/9.PNG)
+
+# More Past Webinars
+[Please click to access past webinars](https://blinks.bloomberg.com/screens/BQNT%20SPOTLIGHT)
