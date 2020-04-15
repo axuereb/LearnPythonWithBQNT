@@ -34,4 +34,5 @@ If you are login on Bloomberg, you may hold CTRL and [click this to launch BQNT]
 
 # More Past Webinars
 Hot topics: [BQNT Spotlight Series](https://blinks.bloomberg.com/screens/BQNT%20SPOTLIGHT)
+
 Retrieve Bloomberg Data with BQNT: [BQL/BQNT Basics](https://bloomberg.cwebcast.com/ses/jXAdkrDNj-lPJiwE5vbzIA~~?ek=bbcbe277-1dd1-48cd-91a9-f375453f4c05)
